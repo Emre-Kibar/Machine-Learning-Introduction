@@ -1,0 +1,2 @@
+---Ask chatgpt for possible projects
+Movie predicter using apriori
